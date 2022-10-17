@@ -13,7 +13,7 @@ Developing ⚠️
 
 ## Description
 A small portfolio containing my networks of contacts developed through MapadevWeek, a free project event made available by the 
-[devemdobro](https://github.com/devemdobro) held in October/2022.
+<a href="https://www.linkedin.com/company/dev-em-dobro/" target="_blank">devemdobro</a> held in October/2022.
 
 ## Overview
 
